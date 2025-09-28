@@ -28,10 +28,6 @@ A Python tool that processes audio or video files to **detect speech**, log time
 ### 1. Prerequisites
 
 * Python 3.7+
-* **FFmpeg** (must be installed and accessible in your system’s PATH):
-
-  * macOS/Linux → install via `brew` / `apt-get`
-  * Windows → [Download FFmpeg](https://ffmpeg.org/download.html) and add the `bin/` folder to PATH
 
 ### 2. Setup & Execution
 
